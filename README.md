@@ -140,14 +140,3 @@ Tailwind + shadcn UI styling
 
 Responsive and accessible design
 
-📝 License
-This project is for educational/demo use only.
-
-🙌 Acknowledgements
-Firebase
-
-Tailwind CSS
-
-shadcn/ui
-
-Vite
