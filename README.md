@@ -4,6 +4,14 @@ A fully responsive SaaS-style dashboard built with **React**, **Vite**, **Fireba
 
 ---
 
+
+## 📸 Live URL https://mini-ai-dashboard.vercel.app/
+
+
+## 📸 Demo Video https://drive.google.com/file/d/1ttBCnmfdK5lG8k3HAbhl-IHHkL7BKdbN/view?usp=sharing
+
+---
+
 ## 🧰 Tech Stack
 
 - **Frontend**: React 18 + Vite
@@ -53,11 +61,7 @@ A fully responsive SaaS-style dashboard built with **React**, **Vite**, **Fireba
 - ✅ Realtime sync via Firebase
 - ✅ Fallback localStorage persistence
 
----
 
-## 📸 Demo Video https://drive.google.com/file/d/1ttBCnmfdK5lG8k3HAbhl-IHHkL7BKdbN/view?usp=sharing
-
----
 
 ## 🧪 Getting Started
 
