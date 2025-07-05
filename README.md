@@ -66,13 +66,12 @@ A fully responsive SaaS-style dashboard built with **React**, **Vite**, **Fireba
 ## 🧪 Getting Started
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/yourusername/mini-ai-dashboard.git
 cd mini-ai-dashboard
 2. Install Dependencies
-bash
-Copy
-Edit
+
+
 npm install
 3. Setup Firebase
 Create a project on Firebase Console
@@ -84,8 +83,7 @@ Create a Firestore Database
 Add your Firebase config to a .env file:
 
 env
-Copy
-Edit
+
 VITE_FIREBASE_API_KEY=your_key
 VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
 VITE_FIREBASE_PROJECT_ID=your_project_id
@@ -102,7 +100,7 @@ To access the Admin Panel:
 
 
 Email: superadmin@test.com
-Password: yourpassword
+Password: Admin@987
 (You can set this user manually in Firestore or via Firebase Authentication)
 
 🚀 Deployment
@@ -110,9 +108,7 @@ You can deploy the app using platforms like Vercel, Netlify, or Firebase Hosting
 Recommended: Vercel for best performance with Vite.
 
 📁 Folder Structure
-bash
-Copy
-Edit
+
 📦src
  ┣ 📂components        # UI and layout components
  ┣ 📂pages             # Auth, Dashboard, Admin views
